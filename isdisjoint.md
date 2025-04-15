@@ -1,0 +1,3 @@
+the isdisjoint() checks if the two sets have no shared items. if the have nothing in common, it returns true, if not it returns false.
+the intersection_update() updates a set by keeping only the items that exist in both sets. it alters the original seat instead of creating a new one.
+the intersection() finds the common items between two sets and creates a new set with them, while keeping the original set unchanged.
