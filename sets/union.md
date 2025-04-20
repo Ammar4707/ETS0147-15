@@ -1,0 +1,2 @@
+the union() returns a new set containing all the elements from both sets without modifiying the original sets.
+the symmetric_difference_update() modifies a set in place to keep only elements that are unique to either set, and not adding the common elements.
